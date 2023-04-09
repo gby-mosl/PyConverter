@@ -1,0 +1,1368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Resources/Icon.icns</key>
+		<data>
+		rV8+DvNaLsC31Q37cVKNQSIiges=
+		</data>
+		<key>Resources/base_library.zip</key>
+		<data>
+		n+WGOBxKItuQkrE6YH8S8xivzQg=
+		</data>
+	</dict>
+	<key>files2</key>
+	<dict>
+		<key>MacOS/PIL/_imaging.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			UzwtEeGSN6Svl6AUNUXKdIGaQf4=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"533c2d11e19237a4af97a0143545ca74819a41fe"</string>
+		</dict>
+		<key>MacOS/PIL/_imagingcms.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			KWs1AzD4LqmuY+8QxDg3DY/NR4Y=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"296b350330f82ea9ae63ef10c438370d8fcd4786"</string>
+		</dict>
+		<key>MacOS/PIL/_imagingtk.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			D11liSuJy17CtM+YRLcb2W6atiY=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"0f5d65892b89cb5ec2b4cf9844b71bd96e9ab626"</string>
+		</dict>
+		<key>MacOS/PIL/_webp.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			bSW5rqyGXurOx2I1POowhtXjtxk=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"6d25b9aeac865eeacec762353cea3086d5e3b719"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/plugins/generic/libqtuiotouchplugin.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			BjrE9FmXtGCAj76os0tWMyA78n8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"063ac4f45997b460808fbea8b34b5633203bf27f"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/plugins/iconengines/libqsvgicon.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			ZPVh60rrZsL5HPnC29KKA1b15/g=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"64f561eb4aeb66c2f91cf9c2dbd28a0356f5e7f8"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/plugins/imageformats/libqgif.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			dfKr81LVtOgi2P0TgwroiA4foq4=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"75f2abf352d5b4e822d8fd13830ae8880e1fa2ae"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/plugins/imageformats/libqicns.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			18gInoU7mleFJpeBCGpPO93VmbI=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"d7c8089e853b9a5785269781086a4f3bddd599b2"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/plugins/imageformats/libqico.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			O1pLDgX/M6Gqbzs2jHiRwDGU0Z8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"3b5a4b0e05ff33a1aa6f3b368c7891c03194d19f"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/plugins/imageformats/libqjpeg.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			hCvgEpAmUa1NPFv6vl+DUqRF+sk=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"842be012902651ad4d3c5bfabe5f8352a445fac9"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/plugins/imageformats/libqmacheif.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			gGqnSZrgIurvLvkL5mP6evADLbY=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"806aa7499ae022eaef2ef90be663fa7af0032db6"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/plugins/imageformats/libqmacjp2.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			aJSo5DFUyPDovNvUITwFxC9+vC8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"6894a8e43154c8f0e8bcdbd4213c05c42f7ebc2f"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/plugins/imageformats/libqpdf.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			5Fj+LdMteKWywhQJ5QpQ2D8x6F8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"e458fe2dd32d78a5b2c21409e50a50d83f31e85f"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/plugins/imageformats/libqsvg.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			8W8U3Wbn9if3U7srnwINORLYZzc=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"f16f14dd66e7f627f753bb2b9f020d3912d86737"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/plugins/imageformats/libqtga.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Ow5282zIHVakaI0tsR4YP5FZrbg=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"3b0e76f36cc81d56a4688d2db11e183f9159adb8"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/plugins/imageformats/libqtiff.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			R8No3hCcs5fc9xB/ExBUXLQTpig=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"47c368de109cb397dcf7107f1310545cb413a628"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/plugins/imageformats/libqwbmp.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			H6CYKq4ee2CY6n5FMAAgxI7KVk8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"1fa0982aae1e7b6098ea7e45300020c48eca564f"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/plugins/imageformats/libqwebp.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			pLTXhpSmbLcjbs8np7ubqAS9Ae8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"a4b4d78694a66cb7236ecf27a7bb9ba804bd01ef"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/plugins/networkinformation/libqscnetworkreachability.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			YasZRbBjLn0JvohxNDPAfaaJUO8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"61ab1945b0632e7d09be88713433c07da68950ef"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/plugins/platforminputcontexts/libqtvirtualkeyboardplugin.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			YmlJiu5m3+3o951iVmFcGfW/VRU=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"6269498aee66dfede8f79d6256615c19f5bf5515"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/plugins/platforms/libqcocoa.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			I6+u1JQNCiI2sP5N3+Z7qtTLg+g=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"23afaed4940d0a2236b0fe4ddfe67baad4cb83e8"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/plugins/platforms/libqminimal.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			wfQpKkNJ3Fq69ab37T/wgvrQKmw=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"c1f4292a4349dc5abaf5a6f7ed3ff082fad02a6c"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/plugins/platforms/libqoffscreen.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			H5ZoBWW8ecXx5Y7TOoMRgJlLXBE=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"1f96680565bc79c5f1e58ed33a831180994b5c11"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/plugins/styles/libqmacstyle.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			MpWIOknaCnv+pehbt0U2/5HQA+c=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"3295883a49da0a7bfea5e85bb74536ff91d003e7"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/plugins/tls/libqcertonlybackend.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			RAdW+ULNf7ORN12r2BL0YdqCqB8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"440756f942cd7fb391375dabd812f461da82a81f"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/plugins/tls/libqopensslbackend.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			fRhjwIEAfRYrdw5QHMgHr/KYC0Y=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"7d1863c081007d162b770e501cc807aff2980b46"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/plugins/tls/libqsecuretransportbackend.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			C0ML+Cc6KkbazzyuP4UEDJMok1I=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"0b430bf8273a2a46dacf3cae3f85040c93289352"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/translations/qtbase_ar.qm</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			l/OY1G3HJmSo0+I0F5oUEDWO60o=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"54a48594468f4d7626244b8aed7e59ab642ea616" or cdhash H"97f398d46dc72664a8d3e234179a1410358eeb4a"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/translations/qtbase_bg.qm</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			LLRTrypVvcTdw4bEFiuWJVAJ5kY=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"0ababd813abb6c5edd9ba99fe55e8ba1759828bf" or cdhash H"2cb453af2a55bdc4ddc386c4162b96255009e646"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/translations/qtbase_ca.qm</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			nl/TlAngEXiaT196Vsa0CVjoL2k=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"f0d6f3585e0ba3443a6e8a08aef406c9ec5369a6" or cdhash H"9e5fd39409e011789a4f5f7a56c6b40958e82f69"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/translations/qtbase_cs.qm</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			fRAz7M1xmi2Fq/oeLECqkia1QjM=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"3ed6cf728eadcfac3381f567edcb8d6f53c85575" or cdhash H"7d1033eccd719a2d85abfa1e2c40aa9226b54233"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/translations/qtbase_da.qm</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			ur3MEONn6pN4akWSOkg80Xjgltc=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"9990c0ede3af92c3affead6cf5c13b2c424c9195" or cdhash H"babdcc10e367ea93786a45923a483cd178e096d7"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/translations/qtbase_de.qm</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			CDb3+0uBSuaCGBD+2/Myd+bmFrs=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"6aef0aed5c8da64a8b5c261c3cbd678feb320266" or cdhash H"0836f7fb4b814ae6821810fedbf33277e6e616bb"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/translations/qtbase_en.qm</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			ojap/mBRYoD2VDRP7obPps1GoGE=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"c3af50db4a390c756df5f7e8e2d270eb8bdae9b6" or cdhash H"a236a9fe60516280f654344fee86cfa6cd46a061"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/translations/qtbase_es.qm</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			dmZaBDP/PzFVA2sNgu6CTmZ8cGw=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"2a1270ac2183fc0db1b699e34185b3e86aeb417c" or cdhash H"76665a0433ff3f3155036b0d82ee824e667c706c"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/translations/qtbase_fa.qm</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			rMWncd5B9di/WUFrpv96rrUTPKg=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"6c5b33eb49094c6ec6d3a9bf77c5fdc13dd7593f" or cdhash H"acc5a771de41f5d8bf59416ba6ff7aaeb5133ca8"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/translations/qtbase_fi.qm</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			ap1VDrMIq7wcW1M8SVHf0mBCkNA=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"f53f3775d8c409f0c7d8ac350bc35765ddd1d548" or cdhash H"6a9d550eb308abbc1c5b533c4951dfd2604290d0"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/translations/qtbase_fr.qm</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			rz0Hzxi9gfuOtLmI4cK2BOKlWf0=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"fb98dde591b0266f9c03340219ada93b8131b66b" or cdhash H"af3d07cf18bd81fb8eb4b988e1c2b604e2a559fd"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/translations/qtbase_gd.qm</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			0hwI40eyv9Wq/TXzddzBQt1RSd8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"e5e2ae223b26e21a89993f0d152971121c1549ba" or cdhash H"d21c08e347b2bfd5aafd35f375dcc142dd5149df"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/translations/qtbase_he.qm</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			4+e7s6K5NXT6LvkGsKgirwKYSvY=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"6677a1e0ebe819c5e76604711b89d7b1b5c43a2f" or cdhash H"e3e7bbb3a2b93574fa2ef906b0a822af02984af6"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/translations/qtbase_hr.qm</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Bjb/qMh3K1pGnDbBLh8cN4xetp8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"b1cef1ff647facdae1ae8bd13ba8bf61b1262a50" or cdhash H"0636ffa8c8772b5a469c36c12e1f1c378c5eb69f"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/translations/qtbase_hu.qm</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			EHNi0ZjEOV6hjL3NpwPNX+4lJt4=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"aa45a380f64c4251ff109510bf9ffa8fd482d53a" or cdhash H"107362d198c4395ea18cbdcda703cd5fee2526de"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/translations/qtbase_it.qm</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			9yZ+IdGK3dQim0Quv1Li+xmDwYs=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"1a583543b30781c43965a0283de3ec1af79e5e13" or cdhash H"f7267e21d18addd4229b442ebf52e2fb1983c18b"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/translations/qtbase_ja.qm</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			r8a3EnO9E6cfs85oe/eNXPXm9G8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"4c4410c7f8e3c9af37bd6136686106891ff65a7b" or cdhash H"afc6b71273bd13a71fb3ce687bf78d5cf5e6f46f"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/translations/qtbase_ko.qm</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			bwWfC7zAQca8UTbrstpmlfVSeH8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"f817f399f46baad5b74f2e6a9cdeba37c352759f" or cdhash H"6f059f0bbcc041c6bc5136ebb2da6695f552787f"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/translations/qtbase_lv.qm</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			vI4hnShbD7uIFQ962Yr+7SjqvnA=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"cbf09f8e41ea95ff8e9539d93c6886c1bb1b9d24" or cdhash H"bc8e219d285b0fbb88150f7ad98afeed28eabe70"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/translations/qtbase_nl.qm</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			/MgUtp7QaziWR4zrZkTfQ31Igmk=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"de4b5ee3deda93143b30e570fd07f624cab2fd5c" or cdhash H"fcc814b69ed06b3896478ceb6644df437d488269"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/translations/qtbase_nn.qm</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			8IagFM7xPPPBmSQgwLhOIRCp56Y=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"52fc8f1082492600c695c24ab1f779eeaf8b7bce" or cdhash H"f086a014cef13cf3c1992420c0b84e2110a9e7a6"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/translations/qtbase_pl.qm</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			TexqsLC29bshoTKH504HtoCxHno=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"31bc5c2898979b5eb4815c76b0c0196ff1b7180e" or cdhash H"4dec6ab0b0b6f5bb21a13287e74e07b680b11e7a"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/translations/qtbase_pt_BR.qm</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			D3IpBUGnnYUxXK2h9Te7G4wYbBc=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"788423047975b0ff86203b74c13b6e27e2027c0c" or cdhash H"0f72290541a79d85315cada1f537bb1b8c186c17"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/translations/qtbase_ru.qm</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			ivybzAIkoA8IRAqN3KCfgN3j9H0=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"35f89e907eb1a0f2044aea6b59b4a1e82103c6db" or cdhash H"8afc9bcc0224a00f08440a8ddca09f80dde3f47d"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/translations/qtbase_sk.qm</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			6JiORT45MOArWC4+mC138d8MFx4=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"cfa884b1e7813c9051eee6176ba549d3ecb9ce78" or cdhash H"e8988e453e3930e02b582e3e982d77f1df0c171e"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/translations/qtbase_tr.qm</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			aejy3eRBNdUq1sToWdcppNKmBII=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"608e3fd1cde867df88b43470b2d70d6cc8858f1e" or cdhash H"69e8f2dde44135d52ad6c4e859d729a4d2a60482"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/translations/qtbase_uk.qm</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			CMO4s89YqbMs77MkrgtVMUlbsAw=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"3233b087dc26a08b05b561a81763778b6b2a9bb5" or cdhash H"08c3b8b3cf58a9b32cefb324ae0b5531495bb00c"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/translations/qtbase_zh_CN.qm</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			zvsT+cxb5rt6b2iyUWWJYZnkSQY=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"fc90988daa4a77c2fb4a537bbaf1882b4f70914e" or cdhash H"cefb13f9cc5be6bb7a6f68b25165896199e44906"</string>
+		</dict>
+		<key>MacOS/PySide6/Qt/translations/qtbase_zh_TW.qm</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			3Gz59bPoXe2fQR1zzDfM4jx32hQ=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"2f942d794ac7c5b7f860ccb3dd3cb40dc8361287" or cdhash H"dc6cf9f5b3e85ded9f411d73cc37cce23c77da14"</string>
+		</dict>
+		<key>MacOS/PySide6/QtCore.abi3.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			tFCKemtyngtHFLv11uje5Av3A90=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"b4508a7a6b729e0b4714bbf5d6e8dee40bf703dd"</string>
+		</dict>
+		<key>MacOS/PySide6/QtDBus.abi3.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			taZmVqvpTl2yLr09i1ksAoYK/JY=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"b5a66656abe94e5db22ebd3d8b592c02860afc96"</string>
+		</dict>
+		<key>MacOS/PySide6/QtGui.abi3.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			5LG6U51LYrSYSS1QgmsLRz2J+k0=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"e4b1ba539d4b62b498492d50826b0b473d89fa4d"</string>
+		</dict>
+		<key>MacOS/PySide6/QtNetwork.abi3.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			paKKwfcJqtnnPtmGMsJJJzgppRo=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"a5a28ac1f709aad9e73ed98632c249273829a51a"</string>
+		</dict>
+		<key>MacOS/PySide6/QtWidgets.abi3.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			ccwlZ7hALRGl0UAx2X5//jZYUuY=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"71cc2567b8402d11a5d14031d97e7ffe365852e6"</string>
+		</dict>
+		<key>MacOS/Python</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			n4M/+pv/nf+cTdowreLENWMfLGk=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"9f833ffa9bff9dff9c4dda30ade2c435631f2c69"</string>
+		</dict>
+		<key>MacOS/QtCore</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			EcxpGhGSSGLvtBil81s3/2+ox7Y=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"11cc691a11924862efb418a5f35b37ff6fa8c7b6"</string>
+		</dict>
+		<key>MacOS/QtDBus</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			RC7bWpK9ntdUfOwTL/FGBOzRASY=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"442edb5a92bd9ed7547cec132ff14604ecd10126"</string>
+		</dict>
+		<key>MacOS/QtGui</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			kwswpDcwo7BaZQGzMqFFiLfINVY=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"930b30a43730a3b05a6501b332a14588b7c83556"</string>
+		</dict>
+		<key>MacOS/QtNetwork</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			AkvlQiJWnU1FiEBctVPf4X1Sabk=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"024be54222569d4d4588405cb553dfe17d5269b9"</string>
+		</dict>
+		<key>MacOS/QtOpenGL</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			i+kvc9UDQDm+5Hn6SK8DLTWBE9E=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"8be92f73d5034039bee479fa48af032d358113d1"</string>
+		</dict>
+		<key>MacOS/QtPdf</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			tPRb+SXdMz/8ZN0ReDHZvPlqaQw=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"b4f45bf925dd333ffc64dd117831d9bcf96a690c"</string>
+		</dict>
+		<key>MacOS/QtQml</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Cq2GL52zDTzCc9v0EQGhcjln9O4=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"0aad862f9db30d3cc273dbf41101a1723967f4ee"</string>
+		</dict>
+		<key>MacOS/QtQmlModels</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			qpZJNGbvoAgaF9n3FXhHAcl7eDU=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"aa96493466efa0081a17d9f715784701c97b7835"</string>
+		</dict>
+		<key>MacOS/QtQuick</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			YOMSVcZ5uwDu35Xe3aONDrtC8NA=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"60e31255c679bb00eedf95dedda38d0ebb42f0d0"</string>
+		</dict>
+		<key>MacOS/QtSvg</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			b1t7aoAKt9BSNpU0SKxu3jvCjNM=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"6f5b7b6a800ab7d05236953448ac6ede3bc28cd3"</string>
+		</dict>
+		<key>MacOS/QtVirtualKeyboard</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			FaYpybIm1Rbnd1cOXZ/qwSZsB4s=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"15a629c9b226d516e777570e5d9feac1266c078b"</string>
+		</dict>
+		<key>MacOS/QtWidgets</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			/mzXm4B7g1a3JKiHETfVP1QPH9s=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"fe6cd79b807b8356b724a8871137d53f540f1fdb"</string>
+		</dict>
+		<key>MacOS/base_library.zip</key>
+		<dict>
+			<key>symlink</key>
+			<string>../Resources/base_library.zip</string>
+		</dict>
+		<key>MacOS/lib-dynload/_bisect.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			vMeGYeXr053VFnYaq+QGCFUkkBM=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"bcc78661e5ebd39dd516761aabe4060855249013"</string>
+		</dict>
+		<key>MacOS/lib-dynload/_blake2.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			N356Aemwx70wiLvOlLhsIbg8AFw=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"377e7a01e9b0c7bd3088bbce94b86c21b83c005c"</string>
+		</dict>
+		<key>MacOS/lib-dynload/_bz2.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			AS7jvovoUxVuT3Ger5fnSG/uSzA=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"012ee3be8be853156e4f719eaf97e7486fee4b30"</string>
+		</dict>
+		<key>MacOS/lib-dynload/_codecs_cn.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			JXiaFVxQWVoErSz8fqozFlH9JIY=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"25789a155c50595a04ad2cfc7eaa331651fd2486"</string>
+		</dict>
+		<key>MacOS/lib-dynload/_codecs_hk.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			nlc/Wxk4pUgFXMa/r4XNSwGp6As=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"9e573f5b1938a548055cc6bfaf85cd4b01a9e80b"</string>
+		</dict>
+		<key>MacOS/lib-dynload/_codecs_iso2022.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			2imLNgdZY0024g3BiVCXfCpBrQE=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"da298b360759634d36e20dc18950977c2a41ad01"</string>
+		</dict>
+		<key>MacOS/lib-dynload/_codecs_jp.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			ocVar7NAFa/i+NWMQBWPiVxTwP0=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"a1c55aafb34015afe2f8d58c40158f895c53c0fd"</string>
+		</dict>
+		<key>MacOS/lib-dynload/_codecs_kr.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Hez3nZR96C1I4vs5+DB97tiok4k=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"1decf79d947de82d48e2fb39f8307deed8a89389"</string>
+		</dict>
+		<key>MacOS/lib-dynload/_codecs_tw.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			nl4c7o/MW/axObz7/QplhPZ2aO8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"9e5e1cee8fcc5bf6b139bcfbfd0a6584f67668ef"</string>
+		</dict>
+		<key>MacOS/lib-dynload/_contextvars.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			VcVSWGZEVk1Q7/C+KASqae56UXA=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"55c552586644564d50eff0be2804aa69ee7a5170"</string>
+		</dict>
+		<key>MacOS/lib-dynload/_csv.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			IhE+4kiPTnHW9GeiBd2/B9Ylf5s=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"22113ee2488f4e71d6f467a205ddbf07d6257f9b"</string>
+		</dict>
+		<key>MacOS/lib-dynload/_datetime.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			XUEM3Dfkrpe9GYyM2JLIlk1Lq/8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"5d410cdc37e4ae97bd198c8cd892c8964d4babff"</string>
+		</dict>
+		<key>MacOS/lib-dynload/_decimal.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			CYOVttuYJOvOIJjQMCJZB4eg5UU=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"098395b6db9824ebce2098d03022590787a0e545"</string>
+		</dict>
+		<key>MacOS/lib-dynload/_hashlib.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			R2ams7IMDWvW7N3tpAwEXu78yiA=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"4766a6b3b20c0d6bd6ecddeda40c045eeefcca20"</string>
+		</dict>
+		<key>MacOS/lib-dynload/_heapq.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			P2oXhOo9Jm6MmDLbpQGX+T6tEvo=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"3f6a1784ea3d266e8c9832dba50197f93ead12fa"</string>
+		</dict>
+		<key>MacOS/lib-dynload/_json.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			8kpn21JXcGP1etpUYJEJBVUxfVw=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"f24a67db52577063f57ada546091090555317d5c"</string>
+		</dict>
+		<key>MacOS/lib-dynload/_lzma.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Kj8MXKO1zxUlMM3sS7aMfxBBJE4=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"2a3f0c5ca3b5cf152530cdec4bb68c7f1041244e"</string>
+		</dict>
+		<key>MacOS/lib-dynload/_md5.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			L1qHtp6eMAegBWlGnW2D7vZqCV0=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"2f5a87b69e9e3007a00569469d6d83eef66a095d"</string>
+		</dict>
+		<key>MacOS/lib-dynload/_multibytecodec.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			y2HGrH1kjUk0YfyemharoKZzWbc=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"cb61c6ac7d648d493461fc9e9a16aba0a67359b7"</string>
+		</dict>
+		<key>MacOS/lib-dynload/_opcode.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			fw9VjmDiS7+ynqYym9esqz0o2vQ=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"7f0f558e60e24bbfb29ea6329bd7acab3d28daf4"</string>
+		</dict>
+		<key>MacOS/lib-dynload/_pickle.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			7kYECjTPuu3coV27aWhE/YEbfdA=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"ee46040a34cfbaeddca15dbb696844fd811b7dd0"</string>
+		</dict>
+		<key>MacOS/lib-dynload/_posixsubprocess.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			xdJPSDPsosPTmqE+nq4e8q1UBiA=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"c5d24f4833eca2c3d39aa13e9eae1ef2ad540620"</string>
+		</dict>
+		<key>MacOS/lib-dynload/_random.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			BXr5zRRCJyxiM+m6PI0u7b4GgRo=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"057af9cd1442272c6233e9ba3c8d2eedbe06811a"</string>
+		</dict>
+		<key>MacOS/lib-dynload/_scproxy.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			DEWEr8wQI3QjYyvX9Il/rHTqInQ=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"0c4584afcc10237423632bd7f4897fac74ea2274"</string>
+		</dict>
+		<key>MacOS/lib-dynload/_sha1.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			KGz4vM24VGhg8EUZ60refyaGoX0=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"286cf8bccdb8546860f04519eb4ade7f2686a17d"</string>
+		</dict>
+		<key>MacOS/lib-dynload/_sha256.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			SWAkBTT87wpXpANkgY5xZcySdGg=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"4960240534fcef0a57a40364818e7165cc927468"</string>
+		</dict>
+		<key>MacOS/lib-dynload/_sha3.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			3Fo13x5WV1J9aoQ0cgyArhUcql8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"dc5a35df1e5657527d6a8434720c80ae151caa5f"</string>
+		</dict>
+		<key>MacOS/lib-dynload/_sha512.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			o24D/tLgJ80oUlZZuMzHxAgGRUM=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"a36e03fed2e027cd28525659b8ccc7c408064543"</string>
+		</dict>
+		<key>MacOS/lib-dynload/_socket.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			vhhJgARqyqE4oGS/ciq6SJVDVvs=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"be184980046acaa138a064bf722aba48954356fb"</string>
+		</dict>
+		<key>MacOS/lib-dynload/_ssl.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			UxKYXjoi2zlV6HuHSauFmuv45uo=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"5312985e3a22db3955e87b8749ab859aebf8e6ea"</string>
+		</dict>
+		<key>MacOS/lib-dynload/_statistics.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			96zetdCsc36ji1h+mc7AM6m0Eu8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"f7acdeb5d0ac737ea38b587e99cec033a9b412ef"</string>
+		</dict>
+		<key>MacOS/lib-dynload/_struct.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			jMWB8Xrr2eZ7+7MQ8Pw+FZYbwxo=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"8cc581f17aebd9e67bfbb310f0fc3e15961bc31a"</string>
+		</dict>
+		<key>MacOS/lib-dynload/array.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			sG+Wr/ngVQFlSyCgs2AGeWoinKk=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"b06f96aff9e05501654b20a0b36006796a229ca9"</string>
+		</dict>
+		<key>MacOS/lib-dynload/binascii.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			YTZWl33OCb5cTmr0QSkYmW8VWYM=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"613656977dce09be5c4e6af4412918996f155983"</string>
+		</dict>
+		<key>MacOS/lib-dynload/fcntl.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			SGjDayzEr2APWK+dvVk+BGVCCcA=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"4868c36b2cc4af600f58af9dbd593e04654209c0"</string>
+		</dict>
+		<key>MacOS/lib-dynload/grp.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			kKGpUSwPu9OZv35zXcw7taedLec=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"90a1a9512c0fbbd399bf7e735dcc3bb5a79d2de7"</string>
+		</dict>
+		<key>MacOS/lib-dynload/math.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			5JaP096m0nj0vtzfFidxmUSjiD8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"e4968fd3dea6d278f4bedcdf1627719944a3883f"</string>
+		</dict>
+		<key>MacOS/lib-dynload/mmap.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			9nWLr2fqsbtH0YKkRhhH0hH016w=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"f6758baf67eab1bb47d182a4461847d211f4d7ac"</string>
+		</dict>
+		<key>MacOS/lib-dynload/readline.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			+arL5E+yGLmIFvQ7Rv1wXgF0Amk=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"f9aacbe44fb218b98816f43b46fd705e01740269"</string>
+		</dict>
+		<key>MacOS/lib-dynload/resource.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			z/vvXtWl8Ma1ANqR3CKnvR6HsI4=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"cffbef5ed5a5f0c6b500da91dc22a7bd1e87b08e"</string>
+		</dict>
+		<key>MacOS/lib-dynload/select.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			b3HEC8BfGp8v4ph3r6ekVAjxzCk=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"6f71c40bc05f1a9f2fe29877afa7a45408f1cc29"</string>
+		</dict>
+		<key>MacOS/lib-dynload/termios.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			/C53e5dUQyM3vSkmQH2P55h9cGU=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"fc2e777b9754432337bd2926407d8fe7987d7065"</string>
+		</dict>
+		<key>MacOS/lib-dynload/unicodedata.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			b4G3O5OmxWCJQWe0rLE3DP0rtes=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"6f81b73b93a6c560894167b4acb1370cfd2bb5eb"</string>
+		</dict>
+		<key>MacOS/lib-dynload/zlib.cpython-310-darwin.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			YNX5HGlzQxauIvsI2IWz71gAz8w=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"60d5f91c69734316ae22fb08d885b3ef5800cfcc"</string>
+		</dict>
+		<key>MacOS/libXau.6.0.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Md7XWJX8DrZpXdVKdIvjCYVIn/Q=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"31ded75895fc0eb6695dd54a748be30985489ff4"</string>
+		</dict>
+		<key>MacOS/libcrypto.1.1.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			nf0vj+yb/iP6ScZhKXZtGrlY36A=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"9dfd2f8fec9bfe23fa49c66129766d1ab958dfa0"</string>
+		</dict>
+		<key>MacOS/liblcms2.2.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			47qjlABhUNAJkGrXTC1g7hHNzy4=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"e3baa394006150d009906ad74c2d60ee11cdcf2e"</string>
+		</dict>
+		<key>MacOS/liblzma.5.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			v1RV2dmYRHAv4qegX6L2kWIdpyA=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"bf5455d9d99844702fe2a7a05fa2f691621da720"</string>
+		</dict>
+		<key>MacOS/libmpdec.3.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			jCBVAD/C8naCFl+Lb8GcPOldU1A=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"8c2055003fc2f27682165f8b6fc19c3ce95d5350"</string>
+		</dict>
+		<key>MacOS/libopenjp2.2.5.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Z8/PEm2aHXG+MpEolWG9gbcy+/o=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"67cfcf126d9a1d71be3291289561bd81b732fbfa"</string>
+		</dict>
+		<key>MacOS/libpyside6.abi3.6.4.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			dXQS6Kja+SLO4i5LKD+O2tfSFLg=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"757412e8a8daf922cee22e4b283f8edad7d214b8"</string>
+		</dict>
+		<key>MacOS/libreadline.8.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			unrJ97K0WkRoATEzLlewQYUNLQU=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"ba7ac9f7b2b45a44680131332e57b041850d2d05"</string>
+		</dict>
+		<key>MacOS/libsharpyuv.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			MxvmPqLsuUUbOoL0WYRkHUl/W4A=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"331be63ea2ecb9451b3a82f45984641d497f5b80"</string>
+		</dict>
+		<key>MacOS/libshiboken6.abi3.6.4.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			qaDev/znq3U5K/5Lt6KKn+MVt1U=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"a9a0debffce7ab75392bfe4bb7a28a9fe315b755"</string>
+		</dict>
+		<key>MacOS/libssl.1.1.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			o/oqDSOgKiiM1v7iX67BqzNn/BM=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"a3fa2a0d23a02a288cd6fee25faec1ab3367fc13"</string>
+		</dict>
+		<key>MacOS/libtiff.6.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			OZVY2E6EBHwJ08iFhK3IY9SL6Fg=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"399558d84e84047c09d3c88584adc863d48be858"</string>
+		</dict>
+		<key>MacOS/libwebp.7.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			E15MEF3Mr/0qwoVSpYCcPIpaG9c=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"135e4c105dccaffd2ac28552a5809c3c8a5a1bd7"</string>
+		</dict>
+		<key>MacOS/libwebpdemux.2.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			bnoP0gjmqvw7Gs3HVe9sx0Higg0=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"6e7a0fd208e6aafc3b1acdc755ef6cc741e2820d"</string>
+		</dict>
+		<key>MacOS/libwebpmux.3.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			34Z4w9VxUc4pUdQA/xh4BTybHNo=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"df8678c3d57151ce2951d400ff1878053c9b1cda"</string>
+		</dict>
+		<key>MacOS/libxcb.1.1.0.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			vFU+uR0SnLd/kDK+XbzfxEgiot8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"bc553eb91d129cb77f9032be5dbcdfc44822a2df"</string>
+		</dict>
+		<key>MacOS/libz.1.2.13.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			AY3+G2sZBMG8KUNWrLL8iB/x3y0=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"018dfe1b6b1904c1bc294356acb2fc881ff1df2d"</string>
+		</dict>
+		<key>MacOS/shiboken6/Shiboken.abi3.so</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			iI3DN+MdZQ5GNt3Y/rhY0jKBox4=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"888dc337e31d650e4636ddd8feb858d23281a31e"</string>
+		</dict>
+		<key>Resources/Icon.icns</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5y7jv8jMTyELT9zgoOfcyAMXGlyciJ7AGoh7Wb+GYgM=
+			</data>
+		</dict>
+		<key>Resources/base_library.zip</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pVnP8/1iDHtWK7aBNzt8YdmTBzbHZF0X2iDEY8GCKIw=
+			</data>
+		</dict>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>^Resources/</key>
+		<true/>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Resources/Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^version.plist$</key>
+		<true/>
+	</dict>
+	<key>rules2</key>
+	<dict>
+		<key>.*\.dSYM($|/)</key>
+		<dict>
+			<key>weight</key>
+			<real>11</real>
+		</dict>
+		<key>^(.*/)?\.DS_Store$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>2000</real>
+		</dict>
+		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^.*</key>
+		<true/>
+		<key>^Info\.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^PkgInfo$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Resources/Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^[^/]+$</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^embedded\.provisionprofile$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^version\.plist$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+	</dict>
+</dict>
+</plist>
